@@ -4,6 +4,11 @@ import Surprise from './components/surprise';
 import './index.css';
 
 ReactDOM.render(
-  <Surprise />,
+  <div>
+  <Surprise />
+  <Surprise />
+  <Surprise />
+  <Surprise />
+  </div>,
   document.getElementById('root')
 );
